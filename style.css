@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://img3.goodfon.ru/wallpaper/nbig/9/e8/sobaka-vzglyad-fon.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: 700px;
+}
+
+.block1{
+    width: 500px;
+}

@@ -1,0 +1,19 @@
+body{
+    color: gray;
+    font-size: large;
+}
+
+.block1:hover{
+    color: red;
+    text-decoration: line-through;
+}
+
+.block2:hover{
+    color: blue;
+    text-decoration: overline;
+}
+
+.block3:hover{
+    color: green;
+    text-decoration: underline overline;
+}
